@@ -39,7 +39,7 @@ python train.py
 生成的模型权重会以`pth`的形式自动保存；训练中产生的loss和Accuracy信息会记录在tensorboard中，保存在runs文件夹下
 ### 模型测试
 
-* 模型权重地址：[https://pan.baidu.com/s/14VxRoux2bBZOMeWqDkNRwQ?pwd=5pmb](https://pan.baidu.com/s/14VxRoux2bBZOMeWqDkNRwQ?pwd=5pmb)
+* 模型权重地址：[https://pan.baidu.com/s/1EE0prDMZ16BCECfs4cGTFA?pwd=2vrf](https://pan.baidu.com/s/1EE0prDMZ16BCECfs4cGTFA?pwd=2vrf)
 * 将模型权重文件放至根目录下；
 * 运行：
 ```bash
