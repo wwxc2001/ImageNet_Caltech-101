@@ -15,7 +15,6 @@
 ```bash
 - ImageNet_Caltech-101
   - data_process.py  # 数据集处理代码，划分训练集和测试集
-  - param_search.py # 网格化参数搜索代码
   - pr_train.py # 使用预训练模型进行训练
   - re_train.py # 使用随机初始化模型进行训练
   - test.py # 模型测试主程序
